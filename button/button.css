@@ -1,0 +1,14 @@
+
+.upDownButton ,.upDownButton:hover ,.upDownButton:active, .upDownButton:visited ,.upDownButton:focus{
+  background-color:  #484848 ;
+  color: #F0E68C ;
+  /** TODO : include the correct border **/
+  /** border: 2px solid black; **/
+  border-radius: 8px;
+  /** TODO : cancel the border once the correct border is applied **/
+  border: 2px solid black;
+}
+
+.raisedButton{
+  box-shadow: 1px 1px 1px grey inset;
+}

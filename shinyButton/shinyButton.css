@@ -1,0 +1,11 @@
+.shinyButton{
+  background-image: url("../images/shinyOnOff.jpg");
+  background-size: cover;
+  width:3%;
+  height:5%;
+}
+
+.btn-circle{
+  /** To make the button circular in shape **/
+  border-radius: 50%;
+}

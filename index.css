@@ -1,0 +1,34 @@
+.stats{
+  background-color: #606060;
+  background: linear-gradient(to right, #606060 0% , #A9A9A9	100%);
+  height:90%;
+  border-radius: 11px;
+  padding: 2em;
+}
+
+.dashboard{
+  background-color: black;
+  height:100%;
+  border-radius: 11px;
+}
+
+/** Button up-down **/
+.upDownButton ,.upDownButton:hover ,.upDownButton:active, .upDownButton:visited ,.upDownButton:focus{
+  background-color:  #484848 ;
+  color: #F0E68C ;
+  /** TODO : include the correct border **/
+  /** border: 2px solid black; **/
+  border-radius: 8px;
+  /** TODO : cancel the border once the correct border is applied **/
+  border: 2px solid black;
+}
+
+.raisedButton{
+  box-shadow: 1px 1px 1px grey inset;
+}
+
+/** Empty Button **/
+.emptySmallButton{
+  margin-top:11px;
+  padding-left: 21px;
+}
